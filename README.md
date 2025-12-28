@@ -22,7 +22,7 @@ A Node.js & Express REST API for task management with JWT authentication and Pos
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager.git
+git clone https://github.com/AyaSalah973/task-manager.git
 cd task-manager/backend
 npm install
 npm run dev
