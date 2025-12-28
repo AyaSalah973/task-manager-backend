@@ -1,9 +1,15 @@
-# 📝 Task Manager - Backend API
+# Task Manager - Backend API
 
 A Node.js & Express REST API for task management with JWT authentication and PostgreSQL.
 
 ---
-
+## API Endpoints
+- POST /api/auth/register
+- POST /api/auth/login
+- GET /api/tasks
+- POST /api/tasks
+- PUT /api/tasks/:id
+- DELETE /api/tasks/:id
 ## 🚀 Quick Start
 
 ### Prerequisites
